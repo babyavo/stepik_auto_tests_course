@@ -1,2 +1,2 @@
 # stepik_auto_tests_course
-Homework for course assignments
+Homework for course assignments (testing)
